@@ -25,12 +25,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://climate-compendium.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  s-klimmer
+github_username: climate-compendium
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  topics:
+    output: true
 
 defaults:
 #  - scope:
@@ -43,6 +47,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: "topics"
+    values:
+      layout: "default"
   - scope:
       path: ""
     values:
