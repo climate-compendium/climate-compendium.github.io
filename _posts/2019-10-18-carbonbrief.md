@@ -59,7 +59,7 @@ sources:
    {% assign country = site.data.unsd | where:"iso3",item.reg | push:item.reg | first %}
 - {{ country.c_o_a }}
     {% for src in item.src %}
-    - Carbon Brief ([{{ src.lng }}]({{ src.url }}))
+    - [Carbon Brief ({{ src.lng }})]({{ src.url }})
     {% endfor %}
     <br/>
 {% endfor %}
