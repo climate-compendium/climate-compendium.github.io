@@ -18,10 +18,10 @@ Recently (18ths of Oct '19), a
 was published in Science, which tried to correct too optimistic estimations and came to the conclusion,
 that growing trees on all available areas not used otherwise would allow to remove a maximum of 42 GtC in total.
 
-This is approximately the amount humankind emits currently every year or between 2% and 3% of the 
-1,5 trillion tons of carbondioxide accumulated in the atmosphere so far. But we had to do it immediately as
-trees need time to grow and emissions are ongoing. The average cost for removing carbondioxide
-by planting trees varies around 30$ per ton.
+The papaer assumes a total historical anthropogenic emissions of 660 GtC with yearly addition of 10 GtC.
+So growing trees could potentially remove 6% of the carbondioxide accumulated in the atmosphere so far. 
+But we had to do it immediately as trees need time to grow and emissions are ongoing. 
+The average cost for removing carbondioxide by planting trees varies around 30$ per ton at the moment.
 
 Some articles about the subject:
 - The Guardian: [Tree planting 'has mind-blowing potential' to tackle climate crisis ](https://www.theguardian.com/environment/2019/jul/04/planting-billions-trees-best-tackle-climate-crisis-scientists-canopy-emissions)
