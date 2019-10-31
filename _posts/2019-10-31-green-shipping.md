@@ -10,13 +10,14 @@ maritime transport is reponsible for 2.5% of global GHG emissions, and 13% of EU
 transport sector. Several projects address this trying to make transports by ship more efficient.
 
 There are several sites keeping track on recent projects to reduce GHG emissions. Some of them are:
+- [International Windship Association](http://wind-ship.org/)
 - [Green shipping news](https://www.green-shipping-news.de)
 - [MariGreen](https://marigreen.eu)
 - [Hellenic Shipping News on Green shipping](https://www.hellenicshippingnews.com/green-shipping-is-the-new-gold/)
 
 Technologies involve use of:
 
-- [Flettner rotors](https://en.wikipedia.org/wiki/Flettner_rotor), see [Enercons E-Ship 1](https://en.wikipedia.org/wiki/E-Ship_1)
+- [Flettner rotors](https://en.wikipedia.org/wiki/Flettner_rotor), see [Enercon's E-Ship 1](https://en.wikipedia.org/wiki/E-Ship_1)
 - [Ventifoils by Econowind](https://www.econowind.nl/index.php/ventifoil/)
 - [Sky sails by Beluga Shipping](https://en.wikipedia.org/wiki/Beluga_Shipping) (meanwhile insolvent)
 - [Liquefied natural gas in maritime applications @Wikipedia](https://en.wikipedia.org/wiki/Liquefied_natural_gas#Use_of_LNG_in_maritime_applications)
