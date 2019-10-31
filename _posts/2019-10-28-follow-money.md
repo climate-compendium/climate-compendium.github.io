@@ -3,7 +3,7 @@ author: sklimmer
 layout: post
 title:  "Follow the money"
 date:   2019-10-28
-categories: solution 
+categories: action 
 ---
 Economy is driven by money. So in order to counteract global warming, 
 institutions began to withdraw theire money from carbon based industry and invest in values
