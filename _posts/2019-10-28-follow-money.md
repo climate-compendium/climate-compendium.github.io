@@ -6,7 +6,7 @@ date:   2019-10-28
 categories: action 
 ---
 Economy is driven by money. So in order to counteract global warming, 
-institutions began to withdraw theire money from carbon based industry and invest in values
+institutions began to withdraw their money from carbon based industry and invest in values
 which does not rely on GHG emissions.
 
 Initiatives which work together with cities and various institutions involve:

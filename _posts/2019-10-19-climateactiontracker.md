@@ -1,9 +1,9 @@
 ---
 author: sklimmer
 layout: post
-title:  "The Climate Action Tracker"
+title:  "Climate Action Tracker"
 date:   2019-10-19
-categories: knowledge 
+categories: knowledge action
 ---
 The [Climate Action Tracker](https://climateactiontracker.org) is an independent scientific analysis that tracks government climate action and measures it against the globally agreed Paris Agreement aim of "holding warming well below 2°C, and pursuing efforts to limit warming to 1.5°C." 
 

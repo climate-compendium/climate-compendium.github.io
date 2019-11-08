@@ -3,7 +3,7 @@ author: sklimmer
 layout: post
 title:  "Effects of global warming"
 date:   2019-10-08
-categories: knowledge 
+categories: knowledge effects
 ---
 There is an overwelming number of articles flying around climate change now, but how to get to the facts about it's effects.
 Well, Wikipedia is often a good starting point.

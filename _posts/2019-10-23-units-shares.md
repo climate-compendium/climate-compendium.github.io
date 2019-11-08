@@ -5,8 +5,11 @@ title:  "Units and shares"
 date:   2019-10-23
 categories: knowledge 
 ---
+Greenhouse gas emissions are measured by tons of carbon (tC) or
+tons of CO₂ equivalent (tCO₂e). Yearly emissions of GHG yields currently more then 
+36 GtCO₂e (giga tons of CO₂ equivalents)
 
-|  | GtC | GtCO₂ [^1]| 
+|  | GtC | GtCO₂e [^1]| 
 |:---|---:|---:|
 | factor | 1 | 3.65 | 
 | world emission from fossil fuels & industry 2017 | 10 | 36.5 |  

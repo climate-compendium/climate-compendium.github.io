@@ -3,7 +3,7 @@ author: sklimmer
 layout: post
 title:  "Famine early warning system"
 date:   2019-11-05
-categories: knowledge 
+categories: knowledge effects
 ---
 Global warming changes weather conditions including intensity and frequency of drought events.
 Withering and failing crops lead to rising food prices and famine.
